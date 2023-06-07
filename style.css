@@ -35,6 +35,7 @@ body {
 p {
     font-family: "Syne", sans-serif;
     color: white;
+    mix-blend-mode: difference;
 }
 
 .title {
